@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mahp-protfolio-react.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=react" /></a>
+  <a href="https://mahp-portfolio-react.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=react" /></a>
   <a href="https://drive.google.com/file/d/1soPE6cOGEdezeueD99H7cEDJKC3H8gYf/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=google-drive" /></a>
   <a href="https://www.linkedin.com/in/md-arman-hosen-patoary-5b409b20b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
@@ -14,25 +14,25 @@
 
 ## 👨‍💻 About Me
 
-- 💼 **Full Stack Software Engineer** with expertise in React, Node.js, and modern web technologies.
-- 🔭 Passionate about building scalable, user-centric digital products.
-- 🌍 Based in Bangladesh, available for remote collaborations.
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/md-arman-hosen-patoary-5b409b20b/) | [Portfolio](https://mahp-protfolio-react.netlify.app/)
+- 💼 Full Stack Software Engineer specializing in React, Node.js, and modern web technologies.
+- 🔭 Passionate about building scalable, user-friendly digital products.
+- 🌍 Based in Bangladesh — open to remote opportunities and collaborations.
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/md-arman-hosen-patoary-5b409b20b/) or check out my [Portfolio](https://mahp-portfolio-react.netlify.app/).
 
 ---
 
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,figma,git,vercel,netlify,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,figma,git,vercel,netlify,vscode" />
 </p>
 
 ---
 
 ## 🌟 Featured Work
 
-🧩 Take a look at some of my best projects and case studies on my  
-📎 [**Portfolio Website →**](https://mahp-protfolio-react.netlify.app/)
+🧩 Explore some of my best projects and case studies on my  
+📎 [**Portfolio Website →**](https://mahp-portfolio-react.netlify.app/)
 
 ---
 
@@ -54,9 +54,9 @@
 
 ## 🧠 Ongoing Goals
 
-- 🌱 Learning more about DevOps, CI/CD, and scalable backend architectures.
-- 🤝 Open to collaboration on impactful and creative projects.
-- 🎯 Continuously improving UI/UX and performance optimization skills.
+- 🌱 Learning DevOps, CI/CD pipelines, and scalable backend architectures.
+- 🤝 Open to collaborating on impactful, innovative projects.
+- 🎯 Focused on mastering UI/UX best practices and performance optimization.
 
 ---
 
@@ -64,8 +64,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-arman-hosen-patoary-5b409b20b/"><img src="https://img.shields.io/badge/LinkedIn-md--arman--hosen--patoary-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:armanpatoary.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-armaanhasan6499@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://mahp-protfolio-react.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=react" /></a>
+  <a href="mailto:armaanhasan6499@gmail.com"><img src="https://img.shields.io/badge/Gmail-armaanhasan6499@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
