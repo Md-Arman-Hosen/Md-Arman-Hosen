@@ -1,7 +1,7 @@
 # Hi there, I'm Arman Hosen 👋
 
 Welcome to my GitHub profile!  
-I'm a passionate and driven **Full Stack Developer** with a strong foundation in web technologies and a flair for building modern, performant applications. My focus is on creating impactful digital solutions and continuously expanding my skill set.
+I'm a passionate and driven ** Software Engineer (Full Stack) ** with a strong foundation in web technologies and a flair for building modern, performant applications. My focus is on creating impactful digital solutions and continuously expanding my skill set.
 
 ---
 
