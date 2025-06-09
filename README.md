@@ -35,7 +35,7 @@ Check out my portfolio for a showcase of my latest and favorite projects:
 ## 📈 Stats
 
 ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Arman-Hosen&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Arman-Hosen&hide=css,scss&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Arman-Hosen&layout=compact&theme=radical)
 
 ---
 
