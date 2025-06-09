@@ -24,7 +24,9 @@
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,figma,git,vercel,netlify,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql&perline=8" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=firebase,tailwind,bootstrap,figma,git,vercel,netlify,vscode&perline=8" />
 </p>
 
 ---
