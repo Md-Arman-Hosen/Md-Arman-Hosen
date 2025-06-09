@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-arman-hosen-patoary-5b409b20b/"><img src="https://img.shields.io/badge/LinkedIn-md--arman--hosen--patoary-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:armanpatoary.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-armanpatoary.work@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:armanpatoary.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-armaanhasan6499@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://mahp-protfolio-react.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=react" /></a>
 </p>
 
