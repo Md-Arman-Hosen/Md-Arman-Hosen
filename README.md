@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://mahp-portfolio-react.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=react" /></a>
-  <a href="https://drive.google.com/file/d/1soPE6cOGEdezeueD99H7cEDJKC3H8gYf/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=google-drive" /></a>
+  <a href="[https://drive.google.com/file/d/1soPE6cOGEdezeueD99H7cEDJKC3H8gYf/view?usp=sharing](https://drive.google.com/file/d/1YO4jqmfg2ZGJrSH7yCH_GnTOJWdzwnBu/view?usp=drive_link)"><img src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=google-drive" /></a>
   <a href="https://www.linkedin.com/in/md-arman-hosen-patoary-5b409b20b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
